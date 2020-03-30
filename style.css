@@ -1,0 +1,43 @@
+body {
+    /*background-image: url("img/balloon-1.jpg");*/
+    background-image: url("https://thumbs.gfycat.com/CloseUntimelyGourami-size_restricted.gif");
+    background-size: cover;
+}
+
+.logo {
+    width: 40px;
+    margin-right: 20px;
+}
+
+.navbar {
+    background: #000000;
+}
+
+.navbar-toggler {
+    background: white;
+}
+
+.nav-title {
+    font-weight: bold;
+    color: white !important;
+}
+
+.navbar-list a {
+    text-decoration: none;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.navbar-list a li {
+    color: white;
+}
+
+.navbar-list a li:hover {
+    color: #00ccff;
+}
+
+.home {
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
