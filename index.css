@@ -36,7 +36,12 @@ body {
     color: #00ccff;
 }
 
-.home {
+.title {
+    text-align: center;
+    color: white;
+}
+
+.heading {
     text-align: center;
     padding: 20px;
     color: white;
