@@ -49,6 +49,37 @@ body {
 }
 
 .title-screen {
-    height: 500px;
-    background-image: linear-gradient(to bottom, rgba(0,175,255,1), rgba(0,175,255,0));
+    background-image: linear-gradient(to bottom, rgba(0,175,255,1), rgba(0,175,255,0.2));
+    width: 100vw;
+    height: 100vh;
+}
+
+@media (min-width: 768px) {
+    h1 {
+        font-size: 50px;
+    }
+
+    h3 {
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 992px) {
+    h1 {
+        font-size: 70px;
+    }
+
+    h3 {
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 1200px) {
+    h1 {
+        font-size: 100px;
+    }
+
+    h3 {
+        font-size: 70px;
+    }
 }
