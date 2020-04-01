@@ -83,3 +83,20 @@ body {
         font-size: 70px;
     }
 }
+
+.info-card {
+    text-align: center;
+}
+
+.card {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.info-content {
+    background: gray;
+    padding: 20px;
+}
