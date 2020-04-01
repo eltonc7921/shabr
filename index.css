@@ -83,3 +83,16 @@ body {
         font-size: 70px;
     }
 }
+.card {
+    margin-left:200px;
+    margin-top:50px;
+}
+.jumbotron {
+    background-color:#DCDCDC;
+}
+#bold {
+    font-weight:bold;
+}
+.words {
+    font-size:32px;
+}
