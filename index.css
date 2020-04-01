@@ -116,3 +116,7 @@ body {
 #contact {
     background gray;
 }
+
+.mx-auto {
+    font-size:36px;
+}
