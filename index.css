@@ -11,6 +11,9 @@ body {
 
 .navbar {
     background: #000000;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
 }
 
 .navbar-toggler {
@@ -115,4 +118,9 @@ body {
 
 #contact {
     background gray;
+}
+
+.testimonial-content {
+    background: gray;
+    padding: 20px;
 }
