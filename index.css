@@ -100,3 +100,19 @@ body {
     background: gray;
     padding: 20px;
 }
+
+.jumbotron {
+    background-color:#DCDCDC;
+}
+
+#bold {
+    font-weight:bold;
+}
+
+.words {
+    font-size:32px;
+}
+
+#contact {
+    background gray;
+}
