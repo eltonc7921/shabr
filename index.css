@@ -136,4 +136,9 @@ body {
 .home-content {
     background:grey;
     padding:30px;
+    text-align:center;
+}
+
+#home {
+    color:white;
 }
