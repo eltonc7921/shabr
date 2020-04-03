@@ -75,6 +75,10 @@ body {
     .words {
         font-size:18px;
     }
+    
+    p {
+        font-size: 15px;
+    }
 }
 
 @media (min-width: 992px) {
@@ -89,6 +93,10 @@ body {
     .words {
         font-size:24px;
     }
+    
+    p {
+        font-size: 24px;
+    }
 }
 
 @media (min-width: 1200px) {
@@ -102,6 +110,10 @@ body {
     
     .words {
         font-size:32px;
+    }
+    
+    p {
+        font-size: 32px;
     }
 }
 
