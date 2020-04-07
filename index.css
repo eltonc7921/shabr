@@ -1,6 +1,6 @@
 body {
     /*background-image: url("img/balloon-1.jpg");*/
-    background-image: url("https://thumbs.gfycat.com/CloseUntimelyGourami-size_restricted.gif");
+    background-image: url("http://weknowyourdreams.com/images/sky/sky-07.jpg");
     background-size: cover;
 }
 
@@ -72,9 +72,6 @@ body {
     h3 {
         font-size: 30px;
     }
-    .words {
-        font-size:18px;
-    }
 }
 
 @media (min-width: 992px) {
@@ -85,10 +82,6 @@ body {
     h3 {
         font-size: 50px;
     }
-    
-    .words {
-        font-size:24px;
-    }
 }
 
 @media (min-width: 1200px) {
@@ -98,10 +91,6 @@ body {
 
     h3 {
         font-size: 70px;
-    }
-    
-    .words {
-        font-size:32px;
     }
 }
 
@@ -118,7 +107,7 @@ body {
 }
 
 .info-content {
-    background: gray;
+    background:#DCDCDC;
     padding: 20px;
 }
 
@@ -136,16 +125,12 @@ body {
 }
 
 .testimonial-content {
-    background: gray;
+    background:#DCDCDC;
     padding: 20px;
 
 }
 .home-content {
-    background:grey;
+    background:#DCDCDC;
     padding:30px;
     text-align:center;
-}
-
-#home {
-    color:white;
 }
